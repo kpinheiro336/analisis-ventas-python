@@ -103,12 +103,12 @@ Este análisis puede servir como apoyo para:
 
 ### Submenú de proyecciones y análisis
 
-![Submenú de proyecciones y análisis](assets/submenu_proyecciones_analisis.png)
+![Submenú de proyecciones y análisis](proyecto_analisis_ventas/assets/submenu_proyecciones_analisis.png)
 
 ### Gráfico de ventas
 
-![Gráfico de ventas](assets/grafico_ventas.png)
+![Gráfico de ventas](proyecto_analisis_ventas/assets/grafico_ventas.png)
 
 ### Predicción del modelo
 
-![Predicción del modelo](assets/prediccion_modelo.png)
+![Predicción del modelo](proyecto_analisis_ventas/assets/prediccion_modelo.png)
