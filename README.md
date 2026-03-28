@@ -99,7 +99,7 @@ Este análisis puede servir como apoyo para:
 
 ### Menú principal
 
-![Menú principal](assets/menu_inicial.png)
+![Menú principal](proyecto_analisis_ventas/assets/menu_inicial.png)
 
 ### Submenú de proyecciones y análisis
 
